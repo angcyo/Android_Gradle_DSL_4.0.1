@@ -3,7 +3,7 @@ com.android.tools.build:gradle:4.0.1
 
 # 环境
 
-## `com.android.tools.build:gradle:4.0.1`
+## 1: `com.android.tools.build:gradle:4.0.1`
 
 ### 所在的本地路径
 
@@ -15,7 +15,7 @@ com.android.tools.build:gradle:4.0.1
 
 > C:/Users/用户名/.gradle/wrapper/dists
 
-## `gradle-6.1.1-all.zip`
+## 2: `gradle-6.1.1-all.zip`
 
 ### 所在的本地路径
 
